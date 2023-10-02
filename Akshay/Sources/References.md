@@ -32,4 +32,17 @@ doi={10.1186/s12910-017-0220-y},
 url={https://doi.org/10.1186/s12910-017-0220-y}
 }
 
-
+@article{DEMETRIADES2010267,
+title = {Brain-machine interface: The challenge of neuroethics},
+journal = {The Surgeon},
+volume = {8},
+number = {5},
+pages = {267-269},
+year = {2010},
+issn = {1479-666X},
+doi = {https://doi.org/10.1016/j.surge.2010.05.006},
+url = {https://www.sciencedirect.com/science/article/pii/S1479666X10001502},
+author = {Andreas K. Demetriades and Christina K. Demetriades and Colin Watts and Keyoumars Ashkan},
+keywords = {Brain-machine interface (BMI), Neuroethics, Robotics, Brain stimulation, Philosophy},
+abstract = {The burning question surrounding the use of Brain-Machine Interface (BMI) devices is not merely whether they should be used, but how widely they should be used, especially in view of some ethical implications that arise concerning the social and legal aspects of human life. As technology advances, it can be exploited to affect the quality of life. Since the effects of BMIs can be both positive and negative, it is imperative to address the issue of the ethics surrounding them. This paper presents the ways in which BMIs can be used and focuses on the ethical concerns to which neuroscience is thus exposed. The argument put forward supports the use of BMIs solely for purposes of medical treatment, and invites the legal framing of this.}
+}

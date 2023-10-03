@@ -35,6 +35,13 @@ Ethical considerations demand that AI-driven EEG data-based applications priorit
 ---
 
 ## **Empirical Premise**
+Brain-computer interfacing will induce widespread plastic changes in the brain which should be monitored
+## **Ethical / Normative Premise**
+The change in personality that follows from a BCI should not impact the access to BCI, but the effects on the personality should be understood and disclosed to the person that will be part of the BCI.
+## **Conclusion**
+If we want BCI systems to be responsibly used, it is necessary to research and understand the influences that it has on the behavior and character of the person whose brain will be interacted with.
+
+## **Empirical Premise**
 
 The deployment of AI-driven EEG data-based applications in legal contexts, such as lie detection or brain fingerprinting, raises ethical concerns about the potential for misuse and infringements on individuals' rights.
 ## **Ethical / Normative Premise**

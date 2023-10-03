@@ -1,4 +1,45 @@
 
+### Are We Cyborgs Yet
+
+Accessibility is viewed as one of the most important aspects of any designs these days. From public infrastructures like museums, offices etc to digital interfaces like apps and websites, accessibility is at the core of design principles. Catering to people with disabilities has always been a challenge across different fields. 
+
+**Importance of inclusivity**
+Similar to accessibility, inclusivity is equally important. In a way inclusivity and accessibility are related. For a system to be inclusive, it has to be first accessible for all. Disability inclusion means that individuals with disabilities have the opportunity to participate in every aspect of life to the fullest extent possible. These opportunities include participation in education, employment, public health programs, community living and service learning. 
+
+But it can be seen that even the most accessible and inclusive systems may not be able to integrate people with disabilities to the complete extent as possible. People with disabilities can be catered to in two different ways. 
+
+1. Changing the environment around them, so as to accommodate and compensate for the disability
+2. Reducing the extent of their disability so that they can interact with the environment in the same way that people without disabilities do. 
+
+Several design frameworks exist to address the former. These include ramps, text to speech, special schools etc. But we can argue that even though these solution make the system more inclusive, there is more to be desired. Given a choice to reduce the disability so that these changes in the environment can be avoided, that would be the best option. 
+
+Brain Computer Interfaces have the potential to use Artificial intelligence to let people perform actions that they otherwise wouldn't given their disability. There have been several advancement in BCI technologies that have shown promising breakthroughs in Thought to Speech and Thought to Action. This shows that BCI has the power to reduce or in some cases completely eliminate the disability of a person.  Thus it is safe to argue that using Artificial Intelligence to increase the capabilities of Brain Computer Interfaces leads to higher accessibility and inclusivity for people with disabilities. 
+
+
+
+
+
+
+
+
+
+
+
+**Defining Disability**
+
+Hindrances to Accessibility and inclusivity
+
+How does BCI help
+
+Formulate the argument
+
+Criticisms
+
+
+
+
+
+
 ### What is BCI
 [[Brain Machine Interfaces]]
 
@@ -9,19 +50,6 @@
 use of BCI is the greatest ethical challenge that neuroscience faces today. 
 
 
-### Issues
-1. User Safety and risk-benefit analysis
-	- Brain's plasticity is still-developing children and even in adults could bring about unknown negative side-effects of BCI use.
-	- A sudden lack of functionality would impact the user directly and immediately. BCI operated wheel chair could fail in the middle of the street while crossing
-2. Humanity and Personhood
-	- Whether BCI users will become "cyborgs" - an integrated man-machine system
-	- But authors argue that we have been routinely using technology to change the body in the form of artificial devices replacing broken parts. (Bone implants, pacemakers)
-	- Risk of losing what makes us human. 
-	- Evolving into "*Homo Sapiens Technologicus*"
-	- May change our social identity, body schema, or individual psychological aspects
-3. Stigma and Normality
-	- If an individual does not see him or herself as disabled, is a BCI that is meant to be assistive technology actually an enhancement?
-4. 
 
 
 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4640665

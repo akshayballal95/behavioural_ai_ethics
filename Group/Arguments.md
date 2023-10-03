@@ -15,7 +15,7 @@ Inclusivity and accessibility are ethical imperatives, and technology should be 
 
 #### **Conclusion**
 
-Despite concerns related to loss of personhood and the stigma attached to BCI technology,it is necessary to develop AI technologies that can improve brain-computer interfaces because this aligns with ethical principles of inclusivity and accessibility, enabling a better quality of life for individuals with disabilities.
+Despite concerns related to loss of personhood and the stigma attached to BCI technology ,it is necessary to develop AI technologies that can improve brain-computer interfaces because this aligns with ethical principles of inclusivity and accessibility, enabling a better quality of life for individuals with disabilities.
 
 ---
 

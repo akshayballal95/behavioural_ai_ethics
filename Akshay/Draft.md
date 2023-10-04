@@ -15,10 +15,16 @@ Several design frameworks exist to address the former. These include ramps, text
 
 Brain Computer Interfaces have the potential to use Artificial intelligence to let people perform actions that they otherwise wouldn't given their disability. There have been several advancement in BCI technologies that have shown promising breakthroughs in Thought to Speech and Thought to Action. This shows that BCI has the power to reduce or in some cases completely eliminate the disability of a person.  Thus it is safe to argue that using Artificial Intelligence to increase the capabilities of Brain Computer Interfaces leads to higher accessibility and inclusivity for people with disabilities. 
 
+**Talk about Capability Approach Framework** 
+
+Capability Approach is an ethical framework that claims that the freedom to achieve well-being is of primary moral importance and well-being should be understood in terms of people's capabilities and functioning. _Functionings_ represent parts of the state of a person–in particular the various things that he or she manages to do or be in leading a life. The _capability_ of a person reflects the alternative combinations of functionings the person can achieve, and from which he or she can choose one collection.
+
+Some functionings are very elementary, such as being adequately nourished, being in good health, etc., and these may be strongly valued by all, for obvious reasons. Others may be more complex, but still widely valued, such as achieving self‐respect or being socially integrated.
 
 
+**Describe three different stake holders**
 
-
+**Criticisms**
 
 
 
@@ -33,7 +39,7 @@ How does BCI help
 
 Formulate the argument
 
-Criticisms
+
 
 
 

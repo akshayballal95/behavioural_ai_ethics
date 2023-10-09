@@ -1,6 +1,6 @@
 # Present the argument
 ### Introduce the argument
-"the use of wireless communication standards exposes BCI users to risk of interference from others"
+A study showed that one of the concerns of the general public regarding the BCI is related to privacy [Jebari 2012]. Subjects state that it is required to have strict legislation in order to prevent sensitive information from landing in the wrong hands. But is this legislation a solution to the privacy problem? I argue that the use of wireless communication in BCI exposes its user to risk of interference. 
 
 
 ### Provide context and background information regarding the argument

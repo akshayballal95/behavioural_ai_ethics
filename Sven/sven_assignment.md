@@ -4,7 +4,7 @@ A study showed that one of the concerns of the general public regarding the BCI 
 
 
 ### Provide context and background information regarding the argument
-
+Informational privacy is of concern regarding BCI because of the nature of the data. This data may contain unexpressed thoughts, personality characteristics and emotions among others. 
 
 
 

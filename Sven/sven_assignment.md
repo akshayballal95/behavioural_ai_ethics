@@ -1,4 +1,8 @@
 # Present the argument
+
+In this section it will become clear why BCI poses a threat to human rights. I will discuss the ethical implication of external interference and present some counterarguments. I will explain why this counterarguments and the current strategy does not suffice. 
+
+
 ### Introduce the argument
 A study showed that one of the concerns of the general public regarding the BCI is related to privacy [Jebari 2012]. Subjects state that it is required to have strict legislation in order to prevent sensitive information from landing in the wrong hands. But is this legislation a solution to the privacy problem? I argue that the use of wireless communication in BCI exposes its user to risk of interference. 
 
@@ -15,7 +19,7 @@ According to article 12 in the UHDR, no one shall be subjected to arbitrary inte
 
 # Evaluating the argument
 ### Assess the truth and validity of the premises in the argument.
-
+Since wireless communication is prone to external interference the risk of a data leak is significant. The ethical implication of interference in the form of deliberate hacking, might be that there are unknown third parties who are able to access your thoughts. This directly violates the 12th article in the UHDR. Since the document for UHDR is widely adopted as valid I will consider this a valid premise as well. 
 
 
 ### Discuss the logical structure of the argument.

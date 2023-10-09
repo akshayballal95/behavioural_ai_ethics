@@ -4,16 +4,12 @@ A study showed that one of the concerns of the general public regarding the BCI 
 
 
 ### Provide context and background information regarding the argument
-Informational privacy is of concern regarding BCI because of the nature of the data. This data may contain unexpressed thoughts, personality characteristics and emotions among others. 
-
+Informational privacy is of concern regarding BCI because of the nature of the data. This data may contain unexpressed thoughts, personality characteristics and emotions among others. With this data being so sensitive it is of utmost importance that this data is handled very carefully. With this in mind, a wireless communication system is prone to external interference like electromagnetic interference or even deliberate hacking attempts. 
+ 
 
 
 ### Clearly state the premises and conclusion of the argument.
-
-
-
-
-### Mention the source of the argument 
+According to article 12 in the UHDR, no one shall be subjected to arbitrary interference with his privacy. Using BCI with wireless communication will violate the human rights. 
 
 
 

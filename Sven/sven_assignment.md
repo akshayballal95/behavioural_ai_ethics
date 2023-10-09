@@ -26,14 +26,13 @@ Since wireless communication is prone to external interference the risk of a dat
 There is a conditional relationship between the premises. If there is a risk of interference, then there are potential privacy concerns. I conclude my statement by connecting the two premises. 
 
 ### For ethical/normative premises, delve into the interpretation of the premise and provide additional arguments to support its strength and generality.
+The premise includes a stress on the importance of privacy for humans. This right is not te be violated without just cause. This premise is not just a philosophical concept but it is incorporated into legal documents such as the UHDR and the ECHR. The recognition of this right into law also implies its importance. 
 
+In a way, the interference with privacy can be connected with broader ethical principles such as autonomy and dignity. Since they are not able to have their own thoughts without worrying they will be leaked to any other instance or entity for example. 
 
 
 ### Cite and discuss additional sources that comment on this or related issues, adding to the analysis.
-
-
-### Discuss whether the argument aligns with the existing ethics literature.
-
+Glannon also discussed the undermining of autonomy by interference on wireless BCI [Glannon 2013]
 
 
 # Adressing Counterarguments

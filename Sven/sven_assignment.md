@@ -23,7 +23,7 @@ Since wireless communication is prone to external interference the risk of a dat
 
 
 ### Discuss the logical structure of the argument.
-
+There is a conditional relationship between the premises. If there is a risk of interference, then there are potential privacy concerns. I conclude my statement by connecting the two premises. 
 
 ### For ethical/normative premises, delve into the interpretation of the premise and provide additional arguments to support its strength and generality.
 

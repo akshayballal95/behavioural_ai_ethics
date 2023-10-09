@@ -37,10 +37,11 @@ Glannon also discussed the undermining of autonomy by interference on wireless B
 
 # Adressing Counterarguments
 ### Anticipate potential objections and counterarguments to your position.
-
+One of the objections which could be argued is that wireless protocols are being developed to be more resilient against external interference. There is a lot of development in cybersecurity in general which should prevent any data leaks. 
 
 
 ### Provide responses or counterarguments to these objections.
+On the other side there is also a lot of development going into avoiding these security measures. People will always find ways to get to this data and as discussed earlier this is harmful to the BCI subject in question. 
 
 
 

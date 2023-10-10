@@ -1,18 +1,8 @@
 # Present the argument
 
-In this section it will become clear why BCI poses a threat to human rights. I will discuss the ethical implication of external interference and present some counterarguments. I will explain why this counterarguments and the current strategy does not suffice. 
-
-
-### Introduce the argument
+In this section it will become clear why BCI poses a threat to human rights. I will discuss the ethical implication of external interference on wireless BCI and present some counterarguments. I will explain why these counterarguments and the current strategy does not suffice. 
 A study showed that one of the concerns of the general public regarding the BCI is related to privacy [Jebari 2012]. Subjects state that it is required to have strict legislation in order to prevent sensitive information from landing in the wrong hands. But is this legislation a solution to the privacy problem? I argue that the use of wireless communication in BCI exposes its user to risk of interference. 
-
-
-### Provide context and background information regarding the argument
 Informational privacy is of concern regarding BCI because of the nature of the data. This data may contain unexpressed thoughts, personality characteristics and emotions among others. With this data being so sensitive it is of utmost importance that this data is handled very carefully. With this in mind, a wireless communication system is prone to external interference like electromagnetic interference or even deliberate hacking attempts. 
- 
-
-
-### Clearly state the premises and conclusion of the argument.
 According to article 12 in the UHDR, no one shall be subjected to arbitrary interference with his privacy. Using BCI with wireless communication will violate the human rights. 
 
 
@@ -43,7 +33,7 @@ One of the objections which could be argued is that wireless protocols are being
 ### Provide responses or counterarguments to these objections.
 On the other side there is also a lot of development going into avoiding these security measures. People will always find ways to get to this data and as discussed earlier this is harmful to the BCI subject in question. 
 
-
+One of the key points made during the interview of Jebari et al. is that there should be strict legislation regarding the privacy of the data. While this of course sounds great and very logical, it is hard to enforce when there are uncontrollable factors like the external interferance. 
 
 ### Ensure a fair representation of alternative viewpoints.
 

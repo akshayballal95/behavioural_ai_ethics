@@ -14,16 +14,9 @@ Unintentional interference might lead to a wrong readout by a BCI device and thi
 
 
 
-
-
-
 # Adressing Counterarguments
-### Anticipate potential objections and counterarguments to your position.
-One of the objections which could be argued is that wireless protocols are being developed to be more resilient against external interference. There is a lot of development in cybersecurity in general which should prevent any data leaks. 
-
-
-### Provide responses or counterarguments to these objections.
-On the other side there is also a lot of development going into avoiding these security measures. People will always find ways to get to this data and as discussed earlier this is harmful to the BCI subject in question. 
+One of the objections which could be argued is that wireless protocols are being developed to be more resilient against external interference. There is a lot of development in cybersecurity in general which should prevent any data leaks. Therefore one could argue that the risk of interference is sufficiently low that the benefits of BCI outweigh the privacy concerns.
+However, there is also a lot of development going into avoiding these security measures. People will always find ways to get to this data and as discussed earlier this is harmful to the BCI subject in question. I believe there is a constant flow of new security measures and a following development in ways to get around it. I would describe the risk of a security breach like a sawtooth, where the security measures are implemented and slowly the technology catches up. While the average risk might not be high, the maximum risk is what we should be concerned about. 
 
 One of the key points made during the interview of Jebari et al. is that there should be strict legislation regarding the privacy of the data. While this of course sounds great and very logical, it is hard to enforce when there are uncontrollable factors like the external interferance. 
 

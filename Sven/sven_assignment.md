@@ -7,8 +7,7 @@ Informational privacy is of concern regarding BCI because of the nature of the d
 
 
 # Evaluating the argument
-### Assess the truth and validity of the premises in the argument.
-Since wireless communication is prone to external interference the risk of a data leak is significant. The ethical implication of interference in the form of deliberate hacking, might be that there are unknown third parties who are able to access your thoughts. This directly violates the 12th article in the UHDR. Since the document for UHDR is widely adopted as valid I will consider this a valid premise as well. 
+Since wireless communication is prone to external interference the risk of a data leak cannot be deemed neglegible. A seperation is made between intentional and unintentional interference. Where unintentional interference includes for instance electromagnetic interference and intentional interference means there is someone deliberately trying to interfere. The ethical implication of interference in the form of intentional interference, might be that there are unknown third parties who are able to access your thoughts. This directly violates the 12th article in the UHDR and should therefore be considered as a violation of human rights. In my opinion, the risk of interference in combination with the catastrophic implication is too problematic to be able to widely adopt this technology. 
 
 
 ### Discuss the logical structure of the argument.

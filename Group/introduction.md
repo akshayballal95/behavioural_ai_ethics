@@ -12,3 +12,13 @@ One of the application that has resulted from this is the ability to control com
 Visual prosthetics is another key application using BCI. With AI rudimentary vision can be achieved by converting images into binary pulses of electrical signals and delivering them the visual cortex [[Retinal_Prosthesis.pdf]]. 
 
 ## Postive and negative implications of BCI (incl Burwell 2017) - Sven
+
+
+
+## Preview of Akshay's Argument
+
+In the first section, we will see why it is very important for us to continue the development of AI-powered BCI technologies despite some of the criticisms like the concern about loss of personhood and concerns about privacy. We will see how we can use the capability approach framework to show the ethical importance of BCI technology. 
+
+## Preview of Tim's Argument
+
+## Preview of Sven's Argument

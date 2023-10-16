@@ -19,7 +19,7 @@ However, as Burwell et al. `[Burwell 2017]` explored, there are also negative im
 
 ## Preview of Akshay's Argument
 
-In the first section, we will see why it is very important for us to continue the development of AI-powered BCI technologies despite some of the criticisms like the concern about loss of personhood and concerns about privacy. We will see how we can use the capability approach framework to show the ethical importance of BCI technology. 
+In the first section, we will see why it is very important for us to continue the development of AI-powered BCI technologies despite some of the criticisms like the concern about loss of/- personhood and concerns about privacy. We will see how we can use the capability approach framework to show the ethical importance of BCI technology. 
 
 ## Preview of Tim's Argument
 Intervening in the neural pathways that form our character and controls our behavior could have an effect. Is it possible to be fully understanding of the effects and if so, is it morally required to disclose the potential effects to the person undergoing the BCI? The second section will attempt to answer this question.

@@ -14,12 +14,15 @@ One of the application that has resulted from this is the ability to control com
 Visual prosthetics is another key application using BCI. With AI rudimentary vision can be achieved by converting images into binary pulses of electrical signals and delivering them the visual cortex [[Retinal_Prosthesis.pdf]]. < one example might be enough? we are not making an overview, just introducing why AI is relevant to BCI >
 
 ## Postive and negative implications of BCI (incl Burwell 2017) - Sven
-
-
+There are very promising results for using BCI as assistive technology. It could be used for paralyzed patients to gain control over prostetic limbs, wheelchairs or computer cursors. The field of possibilities for the BCI application is much broader than only these examples but for now it should set a great example of what is possible with BCI.
+However, as Burwell et al. `[Burwell 2017]` explored, there are also negative implications of BCI. The concerns raised by Burwell contain user safety, the concern on humanity and personhood, stigma and normality, autonomy, responsibility, research ethics, privacy and security, justice, and other issues. In this article we want to discuss some of these topics with more attention to determine whether BCI can be implimented with its ethical implications considered.
 
 ## Preview of Akshay's Argument
 
 In the first section, we will see why it is very important for us to continue the development of AI-powered BCI technologies despite some of the criticisms like the concern about loss of personhood and concerns about privacy. We will see how we can use the capability approach framework to show the ethical importance of BCI technology. 
 
 ## Preview of Tim's Argument
+Intervening in the neural pathways that form our character and controls our behavior could have an effect. Is it possible to be fully understanding of the effects and if so, is it morally required to disclose the potential effects to the person undergoing the BCI? The second section will attempt to answer this question.
+
 ## Preview of Sven's Argument
+In the last section we will discuss why the privacy risks involved with wireless BCI technology are significant. 

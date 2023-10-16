@@ -14,8 +14,8 @@ One of the application that has resulted from this is the ability to control com
 Visual prosthetics is another key application using BCI. With AI rudimentary vision can be achieved by converting images into binary pulses of electrical signals and delivering them the visual cortex [[Retinal_Prosthesis.pdf]]. 
 
 ## Postive and negative implications of BCI (incl Burwell 2017) - Sven
-
-
+There are very promising results for using BCI as assistive technology. It could be used for paralyzed patients to gain control over prostetic limbs, wheelchairs or computer cursors. The field of possibilities for the BCI application is much broader than only these examples but for now it should set a great example of what is possible with BCI.
+However, as Burwell et al. `[Burwell 2017]` explored, there are also negative implications of BCI. The concerns raised by Burwell contain user safety, the concern on humanity and personhood, stigma and normality, autonomy, responsibility, research ethics, privacy and security, justice, and other issues. In this article we want to discuss some of these topics with more attention to determine whether BCI can be implimented with its ethical implications considered.
 
 ## Preview of Akshay's Argument
 
@@ -24,3 +24,4 @@ In the first section, we will see why it is very important for us to continue th
 ## Preview of Tim's Argument
 
 ## Preview of Sven's Argument
+In the last section we will discuss why the privacy risks involved with wireless BCI technology are significant. 
